@@ -35,7 +35,7 @@ assetsSummary:
   - Position
   - CompassDirection
 citation: Haesemeyer, Martin; Tobin, Claire E; Hollins, Hailey L (2026) Behavioral
-  fever 20-30 C ZfPV (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/002026/draft
+  fever 20-30 C ZfPV (Version 0.261013.1841) [Data set]. DANDI Archive. https://doi.org/10.48324/dandi.002026/0.261013.1841
 contributor:
 - affiliation: []
   email: haesemeyer.1@osu.edu
@@ -67,21 +67,35 @@ contributor:
   - dcite:DataCollector
   schemaKey: Person
 dateCreated: '2026-10-12T16:26:26.251172+00:00'
+datePublished: '2026-10-13T18:41:13.289089+00:00'
 description: Behavioral fever experiments on germ free larvae in DMSO (controls),
   after infection with ZfPV in DMSO, and in DMSO with Celebrex after infection with
   ZfPV
+doi: 10.48324/dandi.002026/0.261013.1841
 ethicsApproval: []
-id: DANDI:002026/draft
+id: DANDI:002026/0.261013.1841
 identifier: DANDI:002026
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/002026/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/002026/0.261013.1841/assets.yaml
 name: Behavioral fever 20-30 C ZfPV
+publishedBy:
+  endDate: '2026-10-13T18:41:13.289089+00:00'
+  id: urn:uuid:828f0167-6742-4909-b81f-50dabe0b3f93
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2026-10-13T18:41:13.289089+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:a3ffea3b-8596-46dc-a69b-251a843f3a48
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.7.0
-url: https://dandiarchive.org/dandiset/002026/draft
-version: draft
+url: https://dandiarchive.org/dandiset/002026/0.261013.1841
+version: 0.261013.1841
 wasGeneratedBy: []
